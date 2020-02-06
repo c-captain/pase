@@ -1,0 +1,88 @@
+SET
+DROP EXTENSION
+CREATE EXTENSION
+DROP INDEX
+DROP TABLE
+DROP INDEX
+DROP TABLE
+ distance 
+----------
+        1
+(1 row)
+
+ distance 
+----------
+        1
+(1 row)
+
+ distance 
+----------
+        8
+(1 row)
+
+ distance 
+----------
+        1
+(1 row)
+
+ distance 
+----------
+        1
+(1 row)
+
+ distance 
+----------
+        1
+(1 row)
+
+ distance 
+----------
+        8
+(1 row)
+
+ distance 
+----------
+        1
+(1 row)
+
+CREATE TABLE
+INSERT 0 50000
+CREATE INDEX
+SET
+SET
+  id   | distance 
+-------+----------
+ 31111 |        0
+ 31112 |        1
+ 31110 |        1
+ 31113 |        4
+ 31109 |        4
+ 31114 |        9
+ 31108 |        9
+ 31107 |       16
+ 31115 |       16
+ 31106 |       25
+(10 rows)
+
+CREATE TABLE
+INSERT 0 50000
+CREATE INDEX
+  id   | distance 
+-------+----------
+ 31111 |        0
+ 31112 |        1
+ 31110 |        1
+ 31109 |        4
+ 31113 |        4
+ 31114 |        9
+ 31108 |        9
+ 31107 |       16
+ 31115 |       16
+ 31116 |       25
+(10 rows)
+
+DROP INDEX
+DROP TABLE
+DROP INDEX
+DROP TABLE
+RESET
