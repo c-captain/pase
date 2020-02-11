@@ -2,7 +2,7 @@
 
 PASE: PostgreSQL Ultra-High Dimensional Approximate Nearest Neighbor Search Extension
 
-**(PASE now is in the Ant Financial's open source review process, so it is currently only a directory structure, the code will be added soon after it is approved.)**
+**(PASE is currently under review by the company’s open source committee, and is believed to be completed soon. The code  would be added once approved.)**
 
 
 ## Introduction
@@ -20,6 +20,8 @@ PASE can be used directly through the simple command 'create extention pase;' in
 
 ## Full documentation of Pase
 
+TODO
+
 ## Authors
 Wen Yang (yangwen.yw@antfin.com)
 
@@ -28,6 +30,9 @@ Tao Li (lyee.lit@antfin.com)
 Gai Fang (fanggai.fg@antfin.com)
 
 ## Reference
+
+TODO
+
 
 ## License
 PASE is MIT-licensed.
